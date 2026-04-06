@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/survivors/droS43/Marisa/marisa_hair"
+	"$nocull" 1
+}
